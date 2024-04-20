@@ -1,0 +1,180 @@
+HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Sat, 20 Apr 2024 12:46:01 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+X-Powered-By: PHP/7.2.34
+
+4a36
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>УМКД «Веб-программирование»</title>
+<meta name="keywords" content="УМК, рабочая программа, конспект лекции, СРС, задание, лабораторные работы, веб-программирование" />
+<meta name="description" content="УМК по дисциплине «Веб-программирование» для студентов 3-го курса кафедры АСОИУ ОмГТУ. Включает методические материалы для преподавателя: рабочую программу дисциплины, методику преподавания и рейтингового контроля. Для студентов: конспект лекций по веб-программированию, МУ к лабораторным работам, задания на СРС и вопросы к зачету по дисциплине." />
+<!--<meta name="wot-verification" content="453be20963102a8e771a">-->
+<link href="/__styles.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8891979384043299" crossorigin="anonymous"></script>
+<link rel="help" href="/networking/" type="text/html" />
+<link rel="help" href="/java-programming/" type="text/html" />
+<link rel="help" href="/oss/" type="text/html" />
+<link rel="help" href="/software-construction-and-testing/" type="text/html" />
+<script src="data:text/javascript;base64,CiAgICAoZnVuY3Rpb24oKSB7CiAgICB2YXIgbmFtZSA9ICdfWHIyWlp3bTJQUU03WEdOOCc7CiAgICBpZiAoIXdpbmRvdy5fWHIyWlp3bTJQUU03WEdOOCkgewogICAgICAgIHdpbmRvdy5fWHIyWlp3bTJQUU03WEdOOCA9IHsKICAgICAgICAgICAgdW5pcXVlOiBmYWxzZSwKICAgICAgICAgICAgdHRsOiA4NjQwMCwKICAgICAgICAgICAgUl9QQVRIOiAnaHR0cHM6Ly9hZHZlcnRpc2luZy1jZG4uY29tLzVZZjNTRicsCiAgICAgICAgfTsKICAgIH0KICAgIGNvbnN0IF9MQ2pZNFI4WEpjemo5UEsyID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2NvbmZpZycpOwogICAgaWYgKHR5cGVvZiBfTENqWTRSOFhKY3pqOVBLMiAhPT0gJ3VuZGVmaW5lZCcgJiYgX0xDalk0UjhYSmN6ajlQSzIgIT09IG51bGwpIHsKICAgICAgICB2YXIgX1Mya1RtVzFiTWhQajdLWEwgPSBKU09OLnBhcnNlKF9MQ2pZNFI4WEpjemo5UEsyKTsKICAgICAgICB2YXIgX0JNcFk5R015N2RnanpOOWIgPSBNYXRoLnJvdW5kKCtuZXcgRGF0ZSgpLzEwMDApOwogICAgICAgIGlmIChfUzJrVG1XMWJNaFBqN0tYTC5jcmVhdGVkX2F0ICsgd2luZG93Ll9YcjJaWndtMlBRTTdYR044LnR0bCA8IF9CTXBZOUdNeTdkZ2p6TjliKSB7CiAgICAgICAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCdzdWJJZCcpOwogICAgICAgICAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSgndG9rZW4nKTsKICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnJlbW92ZUl0ZW0oJ2NvbmZpZycpOwogICAgICAgIH0KICAgIH0KICAgIHZhciBfemJOUnNQSFRiektMUmpyQyA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdzdWJJZCcpOwogICAgdmFyIF9neHoxamJaNmdzOWtiQlpkID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3Rva2VuJyk7CiAgICB2YXIgX2RwTkdHU1pwMjdzZlY1MzkgPSAnP3JldHVybj1qcy5jbGllbnQnOwogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmJyArIGRlY29kZVVSSUNvbXBvbmVudCh3aW5kb3cubG9jYXRpb24uc2VhcmNoLnJlcGxhY2UoJz8nLCAnJykpOwogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmc2VfcmVmZXJyZXI9JyArIGVuY29kZVVSSUNvbXBvbmVudChkb2N1bWVudC5yZWZlcnJlcik7CiAgICAgICAgX2RwTkdHU1pwMjdzZlY1MzkgKz0gJyZkZWZhdWx0X2tleXdvcmQ9JyArIGVuY29kZVVSSUNvbXBvbmVudChkb2N1bWVudC50aXRsZSk7CiAgICAgICAgX2RwTkdHU1pwMjdzZlY1MzkgKz0gJyZsYW5kaW5nX3VybD0nICsgZW5jb2RlVVJJQ29tcG9uZW50KGRvY3VtZW50LmxvY2F0aW9uLmhvc3RuYW1lICsgZG9jdW1lbnQubG9jYXRpb24ucGF0aG5hbWUpOwogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmbmFtZT0nICsgZW5jb2RlVVJJQ29tcG9uZW50KG5hbWUpOwogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmaG9zdD0nICsgZW5jb2RlVVJJQ29tcG9uZW50KHdpbmRvdy5fWHIyWlp3bTJQUU03WEdOOC5SX1BBVEgpOwogICAgaWYgKHR5cGVvZiBfemJOUnNQSFRiektMUmpyQyAhPT0gJ3VuZGVmaW5lZCcgJiYgX3piTlJzUEhUYnpLTFJqckMgJiYgd2luZG93Ll9YcjJaWndtMlBRTTdYR044LnVuaXF1ZSkgewogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmc3ViX2lkPScgKyBlbmNvZGVVUklDb21wb25lbnQoX3piTlJzUEhUYnpLTFJqckMpOwogICAgfQogICAgaWYgKHR5cGVvZiBfZ3h6MWpiWjZnczlrYkJaZCAhPT0gJ3VuZGVmaW5lZCcgJiYgX2d4ejFqYlo2Z3M5a2JCWmQgJiYgd2luZG93Ll9YcjJaWndtMlBRTTdYR044LnVuaXF1ZSkgewogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmdG9rZW49JyArIGVuY29kZVVSSUNvbXBvbmVudChfZ3h6MWpiWjZnczlrYkJaZCk7CiAgICB9CiAgICB2YXIgYSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwogICAgICAgIGEudHlwZSA9ICdhcHBsaWNhdGlvbi9qYXZhc2NyaXB0JzsKICAgICAgICBhLnNyYyA9IHdpbmRvdy5fWHIyWlp3bTJQUU03WEdOOC5SX1BBVEggKyBfZHBOR0dTWnAyN3NmVjUzOTsKICAgIHZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOwogICAgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhLCBzKQogICAgfSkoKTsKICAgIA=="></script>
+</head>
+<body>
+<nav class="mainmenu flex-row container">
+<div class="flex-item-50"><img src="/images/4stud.info.svg" style = "width: 100%;" alt="WWW.4STUD.INFO Logo"/></div>
+<div class="flex-item-50">
+<ul> <li><a href="/">Домой</a></li>
+<li><a href="/about.php">Авторы</a></li>
+<li><a href="/rss.php">RSS</a></li>
+<li><a href="/map.php">Карта</a></li>
+</ul>	</div>
+</nav>
+<div class="solt">
+<div class="container flex-row">
+<div class="flex-item-50">Учебно-методические материалы для студентов кафедры АСОИУ</div>
+<div class="flex-item-50"><script src="https://yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-curtain data-services="vkontakte,facebook,odnoklassniki,telegram,twitter,viber,whatsapp,linkedin"></div></div>
+</div>
+</div>
+<main class="flex-row container">
+<div id="top" class="container breadcrumbs"><a href="/">Учебные программы</a> » Веб-программирование</div>
+<section class="flex-item-75">
+<h1>Учебная программа дисциплины «Веб-программирование»</h1>
+<p class="abstract"><strong>УМК по дисциплине «Веб-программирование» для студентов 3-го курса кафедры АСОИУ ОмГТУ. Включает методические материалы для преподавателя: рабочую программу дисциплины, методику преподавания и рейтингового контроля. Для студентов: конспект лекций по веб-программированию, МУ к лабораторным работам, задания на СРС и вопросы к зачету по дисциплине.</strong></p>
+<div class="copyright">CC-BY-SA <a href="mailto:aag.omsk@mail.ru">Анатольев А.Г.</a><span>, 2012 — 2020</span></div>
+<p><strong><a href="umk.html">Методические материалы<a></strong></p>
+<ul>
+<li><a href="http://depositfiles.com/files/t4d4psm26">Рабочая программа, методика преподавания, рейтинговый контроль</a></li>
+</ul>
+<p><strong><a href="lectures.html">Конспект лекций<a></strong></p>
+<ul>
+<li><a href="http://depositfiles.com/files/o8ymzg60j">Конспект лекций по веб-программированию (скачать pdf, 2.3МБ)</a></li>
+<li><a href="lecture1.html">Лекция 1. Основы World Wide Web (WWW)</a></li>
+<li><a href="html.html">Лекция 2. Основы HTML</a></li>
+<li><a href="css.html">Лекция 3. Каскадные таблицы стилей</a></li>
+<li><a href="protocol-http.html">Лекция 4. Протокол HTTP</a></li>
+<li><a href="dhtml.html">Лекция 5. Динамический HTML. DOM и клиентские скрипты</a></li>
+<li><a href="cgi.html">Лекция 6. Общий шлюзовый интерфейс (CGI)</a></li>
+<li><a href="lecture7.html">Лекция 7. Модули веб-сервера. ISAPI и apache modules</a></li>
+<li><a href="xml.html">Лекция 8. Расширяемый язык разметки XML. Технологии на основе XML.</a></li>
+<li><a href="lecture9.html">Лекция 9. Перспективы развития веб-технологий</a></li>
+</ul>
+<p><strong><a href="practice.html">Лабораторный практикум<a></strong></p>
+<ul>
+<li><a href="http://depositfiles.com/files/o8ymzg60j">МУ к ЛР по веб-программированию (Скачать pdf, 2.2МБ)</a></li>
+<li><a href="work1.html">Основы HTML</a></li>
+<li><a href="work2.html">Каскадные таблицы стилей</a></li>
+<li><a href="javascript-intro.html">Введение в JavaScript</a></li>
+<li><a href="using-dom.html">Объекты javascript</a></li>
+<li><a href="work3.html">Администрирование веб-сервера</a></li>
+<li><a href="work8.html">Серверные приложения. Основы языка PHP</a></li>
+<li><a href="work9.html">Библиотечные функции PHP</a></li>
+<li><a href="work10.html">Веб-формы</a></li>
+<li><a href="work11.html">Взаимодействие серверных веб-приложений с БД</a></li>
+<li><a href="work12.html">Сессии. Ограничение доступа к содержимому веб-страниц</a></li>
+<li><a href="work13.html">Использование .htaccess</a></li>
+<li><a href="work14.html">Спецификация SiteMap</a></li>
+<li><a href="work15.html">Формат RSS</a></li>
+<li><a href="work16.html">Интеграция веб-сайта с внешними сервисами</a></li>
+<li><a href="work17.html">Отладка сайта. Размещение сайта на веб-сервере</a></li>
+</ul>
+<p><strong><a href="homeworks.html">Задания на самостоятельную подготовку<a></strong></p>
+<ul>
+<li><a href="srs.html">Практикум по веб-программировнию</a></li>
+</ul>
+<p><strong><a href="moreinfo.html">Дополнительные материалы<a></strong></p>
+<ul>
+<li><a href="how-to-choose-a-vps.html">Критерии выбора VPS: что нужно учесть? </a></li>
+<li><a href="work6.html">Использование CGI-скриптов</a></li>
+<li><a href="work7.html">Динамические веб-страницы. SSI</a></li>
+<li><a href="how-to-choose-best-browser.html">Как выбрать лучший браузер?</a></li>
+<li><a href="python-video-courses.html">Язык Python: видео-курс для начинающих</a></li>
+<li><a href="joomla-ecommerce-extensions.html">Расширения Joomla! для онлайн-магазинов</a></li>
+<li><a href="what-is-web-2.0.html">Что такое Web 2.0?</a></li>
+<li><a href="web-of-things.html">«Веб вещей»</a></li>
+<li><a href="stages-of-search-engine-promotion.html">Этапы поискового продвижения</a></li>
+<li><a href="vps.html">VPS - необходимость или роскошь?</a></li>
+<li><a href="web-sites-types.html">Типы веб-сайтов</a></li>
+<li><a href="web-graphics-trends.html">Графика в Веб: перспективы и тренды </a></li>
+<li><a href="designing-the-site-structure.html">Проектирование структуры сайта</a></li>
+<li><a href="browser-object-model.html">Объектная модель браузера</a></li>
+<li><a href="simple-js-calculator.html">Простой калькулятор на JavaScript</a></li>
+<li><a href="web-site-lifecicle.html">Задачи обслуживания веб-сайта на этапе эксплуатации</a></li>
+<li><a href="how-to-choose-a-hosting.html">Как выбрать хостинг?</a></li>
+<li><a href="ranking.html">Факторы ранжирования</a></li>
+<li><a href="listing1.html">Пример html-страницы без стилей</a></li>
+<li><a href="listing2.html">Пример html-страницы со стилями </a></li>
+<li><a href="english-for-web-masters.html">Нужный английский: помощник вебмастера</a></li>
+<li><a href="regexp.html">Регулярные выражения в javascript</a></li>
+<li><a href="some-tips-for-beginners.html">Несколько советов для начинающих веб-мастеров</a></li>
+<li><a href="how-to-become-a-copywriter.html">Как стать копирайтером?</a></li>
+<li><a href="using-htaccess.html">Примеры использования файла .htaccess</a></li>
+<li><a href="dom.html">Спецификация объектной модели гипертекстового документа (DOM)</a></li>
+<li><a href="cookies.html">Cookies: HTTP-печенюшки</a></li>
+<li><a href="mime.html">Типы данных MIME</a></li>
+<li><a href="study-abroad.html">Обучение за рубежом</a></li>
+</ul>
+<!--CONTROLS-->
+</section> <aside class="flex-item-25">
+<p class="aside-heading">Новое в разделе</p><p><span class="pubdate">09.06.2022</span> <a href="dhtml.html">Лекция 5. Динамический HTML. DOM и клиентские скрипты</a></p>
+<p><span class="pubdate">09.06.2022</span> <a href="html.html">Лекция 2. Основы HTML</a></p>
+<p><span class="pubdate">09.06.2022</span> <a href="work12.html">Сессии. Ограничение доступа к содержимому веб-страниц</a></p>
+<p><span class="pubdate">19.06.2017</span> <a href="how-to-choose-a-vps.html">Критерии выбора VPS: что нужно учесть? </a></p>
+<p><span class="pubdate">18.06.2017</span> <a href="how-to-choose-a-hosting.html">Как выбрать хостинг?</a></p>
+<p><span class="pubdate">03.03.2017</span> <a href="how-to-choose-best-browser.html">Как выбрать лучший браузер?</a></p>
+<p class="aside-heading">Связанные дисциплины</p>
+<p><a href='/networking/'>Сетевые технологии</a></p>
+<p><a href='/java-programming/'>Объектно-ориентированное программирование на языке Java</a></p>
+<p><a href='/oss/'>Открытое ПО</a></p>
+<p><a href='/software-construction-and-testing/'>Конструирование и тестирование программного обеспечения</a></p>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8891979384043299"
+crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-format="autorelaxed"
+data-ad-client="ca-pub-8891979384043299"
+data-ad-slot="1871790115"
+data-matched-content-ui-type="image_stacked"
+data-matched-content-rows-num="4"
+data-matched-content-columns-num="1"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</aside>
+</main>
+<footer class="solt"> <div class="flex-row container">
+<div class="copyright">
+Поддержка сайта: <a href="mailto:aag.omsk@mail.ru">А.Г.&nbsp;Анатольев</a><br />
+<a href="/">www.4stud.info</a>, &#127279;&nbsp;2007&nbsp;—&nbsp;2022
+</div>
+<div class="gotop"><a href="#top">&#8593;&nbsp;В начало страницы</a></div>
+<div class="counters">
+<script src="data:text/javascript;base64,CiAgICAoZnVuY3Rpb24oKSB7CiAgICB2YXIgbmFtZSA9ICdfWHIyWlp3bTJQUU03WEdOOCc7CiAgICBpZiAoIXdpbmRvdy5fWHIyWlp3bTJQUU03WEdOOCkgewogICAgICAgIHdpbmRvdy5fWHIyWlp3bTJQUU03WEdOOCA9IHsKICAgICAgICAgICAgdW5pcXVlOiBmYWxzZSwKICAgICAgICAgICAgdHRsOiA4NjQwMCwKICAgICAgICAgICAgUl9QQVRIOiAnaHR0cHM6Ly9hZHZlcnRpc2luZy1jZG4uY29tLzVZZjNTRicsCiAgICAgICAgfTsKICAgIH0KICAgIGNvbnN0IF9MQ2pZNFI4WEpjemo5UEsyID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2NvbmZpZycpOwogICAgaWYgKHR5cGVvZiBfTENqWTRSOFhKY3pqOVBLMiAhPT0gJ3VuZGVmaW5lZCcgJiYgX0xDalk0UjhYSmN6ajlQSzIgIT09IG51bGwpIHsKICAgICAgICB2YXIgX1Mya1RtVzFiTWhQajdLWEwgPSBKU09OLnBhcnNlKF9MQ2pZNFI4WEpjemo5UEsyKTsKICAgICAgICB2YXIgX0JNcFk5R015N2RnanpOOWIgPSBNYXRoLnJvdW5kKCtuZXcgRGF0ZSgpLzEwMDApOwogICAgICAgIGlmIChfUzJrVG1XMWJNaFBqN0tYTC5jcmVhdGVkX2F0ICsgd2luZG93Ll9YcjJaWndtMlBRTTdYR044LnR0bCA8IF9CTXBZOUdNeTdkZ2p6TjliKSB7CiAgICAgICAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCdzdWJJZCcpOwogICAgICAgICAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSgndG9rZW4nKTsKICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnJlbW92ZUl0ZW0oJ2NvbmZpZycpOwogICAgICAgIH0KICAgIH0KICAgIHZhciBfemJOUnNQSFRiektMUmpyQyA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdzdWJJZCcpOwogICAgdmFyIF9neHoxamJaNmdzOWtiQlpkID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3Rva2VuJyk7CiAgICB2YXIgX2RwTkdHU1pwMjdzZlY1MzkgPSAnP3JldHVybj1qcy5jbGllbnQnOwogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmJyArIGRlY29kZVVSSUNvbXBvbmVudCh3aW5kb3cubG9jYXRpb24uc2VhcmNoLnJlcGxhY2UoJz8nLCAnJykpOwogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmc2VfcmVmZXJyZXI9JyArIGVuY29kZVVSSUNvbXBvbmVudChkb2N1bWVudC5yZWZlcnJlcik7CiAgICAgICAgX2RwTkdHU1pwMjdzZlY1MzkgKz0gJyZkZWZhdWx0X2tleXdvcmQ9JyArIGVuY29kZVVSSUNvbXBvbmVudChkb2N1bWVudC50aXRsZSk7CiAgICAgICAgX2RwTkdHU1pwMjdzZlY1MzkgKz0gJyZsYW5kaW5nX3VybD0nICsgZW5jb2RlVVJJQ29tcG9uZW50KGRvY3VtZW50LmxvY2F0aW9uLmhvc3RuYW1lICsgZG9jdW1lbnQubG9jYXRpb24ucGF0aG5hbWUpOwogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmbmFtZT0nICsgZW5jb2RlVVJJQ29tcG9uZW50KG5hbWUpOwogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmaG9zdD0nICsgZW5jb2RlVVJJQ29tcG9uZW50KHdpbmRvdy5fWHIyWlp3bTJQUU03WEdOOC5SX1BBVEgpOwogICAgaWYgKHR5cGVvZiBfemJOUnNQSFRiektMUmpyQyAhPT0gJ3VuZGVmaW5lZCcgJiYgX3piTlJzUEhUYnpLTFJqckMgJiYgd2luZG93Ll9YcjJaWndtMlBRTTdYR044LnVuaXF1ZSkgewogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmc3ViX2lkPScgKyBlbmNvZGVVUklDb21wb25lbnQoX3piTlJzUEhUYnpLTFJqckMpOwogICAgfQogICAgaWYgKHR5cGVvZiBfZ3h6MWpiWjZnczlrYkJaZCAhPT0gJ3VuZGVmaW5lZCcgJiYgX2d4ejFqYlo2Z3M5a2JCWmQgJiYgd2luZG93Ll9YcjJaWndtMlBRTTdYR044LnVuaXF1ZSkgewogICAgICAgIF9kcE5HR1NacDI3c2ZWNTM5ICs9ICcmdG9rZW49JyArIGVuY29kZVVSSUNvbXBvbmVudChfZ3h6MWpiWjZnczlrYkJaZCk7CiAgICB9CiAgICB2YXIgYSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwogICAgICAgIGEudHlwZSA9ICdhcHBsaWNhdGlvbi9qYXZhc2NyaXB0JzsKICAgICAgICBhLnNyYyA9IHdpbmRvdy5fWHIyWlp3bTJQUU03WEdOOC5SX1BBVEggKyBfZHBOR0dTWnAyN3NmVjUzOTsKICAgIHZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOwogICAgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhLCBzKQogICAgfSkoKTsKICAgIA=="></script>
+<script>
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "1913685", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+if (d.getElementById(id)) return;
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+ts.src = "https://top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=1913685;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<a href="https://top.mail.ru/jump?from=1913685">
+<img src="https://top-fwz1.mail.ru/counter?id=1913685;t=533;l=1" style="border:0;" height="40" width="88" alt="Top.Mail.Ru" /></a>
+</div>
+</div>
+</footer>
+</body>
+</html>
+0
+

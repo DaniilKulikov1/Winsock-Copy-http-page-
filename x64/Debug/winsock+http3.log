@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\USER\Documents\Изучение С++\winsock+http3 копирование символов http страницы\Source.cpp(44,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  winsock+http3.vcxproj -> C:\Users\USER\Documents\Изучение С++\winsock+http3 копирование символов http страницы\x64\Debug\winsock+http3.exe

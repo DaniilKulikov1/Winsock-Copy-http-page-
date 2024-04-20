@@ -1,0 +1,2 @@
+C:\Users\USER\Documents\Изучение С++\winsock+http3\x64\Debug\winsock+http3.exe
+C:\Users\USER\Documents\Изучение С++\winsock+http3 копирование символов http страницы\x64\Debug\winsock+http3.exe
